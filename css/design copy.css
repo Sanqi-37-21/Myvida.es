@@ -398,7 +398,7 @@ p.title{
   	margin-top: 1%;
 	display: flex;
 	flex-wrap: wrap;
-	width: 1800px;
+	width: 900px;
 }
 
 
@@ -456,6 +456,8 @@ p.title{
 	height: 60px;
 	position: relative;
   }
+
+  .bigdescription button:hover {background-color: #636363;}
 
 .bigdescription l{
 	line-height: 35px;
