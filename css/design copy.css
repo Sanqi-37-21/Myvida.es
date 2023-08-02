@@ -398,7 +398,7 @@ p.title{
   	margin-top: 1%;
 	display: flex;
 	flex-wrap: wrap;
-	width: 900px;
+	width: 33%;
 }
 
 
@@ -416,7 +416,7 @@ p.title{
 
 .bigdescription input{
 	height: 60px;
-	width: 600px;
+	width: 100%;
 	font-size: 100%;
 	margin-top: 1%;
 	margin-bottom: 2%;
