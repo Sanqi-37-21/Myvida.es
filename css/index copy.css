@@ -185,6 +185,7 @@ body{
 	display: inline-block;
     position: fixed;
     margin-bottom: 40%;
+	margin-right: 30%;
     text-align: center;
 	border: 1px solid #c7c7c7;
 	width:40%;
@@ -197,7 +198,7 @@ body{
 	padding: 8px 16px;
 	text-decoration: none;
 	width: 8%;
-	height: 85%;
+	height: 75%;
 	font-size: larger;
 
   }
