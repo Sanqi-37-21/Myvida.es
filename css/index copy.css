@@ -188,7 +188,7 @@ body{
     text-align: center;
 	border: 1px solid #c7c7c7;
 	width:40%;
-	height:10%
+	height:3%
   }
   
   .pagination a {
@@ -196,7 +196,7 @@ body{
 	float: left;
 	padding: 8px 16px;
 	text-decoration: none;
-	width: 10%;
+	width: 8%;
 	height: 85%;
 	font-size: larger;
 
