@@ -184,10 +184,11 @@ body{
   .pagination {
 	display: inline-block;
     position: fixed;
-    bottom: 40%;
+    margin-bottom: 40%;
     text-align: center;
 	border: 1px solid #c7c7c7;
 	width:40%;
+	height:10%
   }
   
   .pagination a {
